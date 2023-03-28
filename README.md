@@ -15,3 +15,12 @@
 ![회원가입](https://user-images.githubusercontent.com/122003112/228136861-5f2ea562-e9ef-4fd3-859b-35fd8e4773f1.gif)
 
 이메일 입력후 db 유저목록에서 중복확인후 인증메일발송 가입정보입력하면 가입완료
+
+### 로그인
+
+![로그인](https://user-images.githubusercontent.com/122003112/228141433-8509ccfb-a51d-4981-8acf-7675ce92f2f7.gif)
+
+로그인이후 우상단 프로필아이콘클릭후 로그아웃시 로그아웃되면서 로그인 페이지로 이동
+
+### 마이페이지
+
