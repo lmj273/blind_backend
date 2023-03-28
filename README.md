@@ -8,4 +8,10 @@
 
 ![1](https://user-images.githubusercontent.com/122003112/227197490-e3b64324-6b13-44a4-826b-4a570ae36b68.png)
 
-##
+## 주요기능
+
+### 회원가입
+
+![회원가입](https://user-images.githubusercontent.com/122003112/228136861-5f2ea562-e9ef-4fd3-859b-35fd8e4773f1.gif)
+
+이메일 입력후 db 유저목록에서 중복확인후 인증메일발송 가입정보입력하면 가입완료
